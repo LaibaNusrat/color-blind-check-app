@@ -1,14 +1,15 @@
 # color-blind-check-app
 Project Overview:
-The purpose is to develop a mobile application aimed at testing color blindness in individuals. Color blindness is a common visual impairment affecting a significant portion of the population. The goal of this application is to provide a user-friendly and accessible platform for individuals to self-assess their color vision, enabling early detection and awareness.
+The purpose is to develop a mobile application aimed at testing color blindness in individuals. Color blindness is a common visual impairment affecting a significant portion of the population. The goal of this application is to provide a user-friendly and accessible platform for individuals to self-assess their color vision, enabling early detection and awareness.                                                                                                                                                     
 Project Objectives:
 •	Diagnostic Accuracy: Develop a series of scientifically validated color vision tests to accurately assess different types and levels of color blindness.                                
 •	User-Friendly Interface: Create an intuitive and easy-to-navigate mobile application interface, ensuring accessibility for users of all ages and technical abilities.                  
-•	Personalized Reports: Generate detailed color vision reports for users, offering insights into their specific color blindness type and severity.
-
-Key Features:
-•	User Authentication: Enable users to create accounts and log in, providing a personalized experience and the ability to track their color vision changes over time.            
-•	Diagnostic Testing: Implement a comprehensive color blindness test within the app, allowing users to identify their specific type and severity of color vision deficiency after logging in.                                                                                                                                                             
+•	Personalized Reports: Generate detailed color vision reports for users, offering insights into their specific color blindness type and severity.                                                
+Key Features:                                                                                                                                                                   
+•	User Authentication: Enable users to create accounts and log in, providing a personalized experience and the ability to track their color vision changes over time.        
+                                         
+•	Diagnostic Testing: Implement a comprehensive color blindness test within the app, allowing users to identify their specific type and severity of color vision deficiency after logging in.                                                                                                                                                            
+                                                                                                                                                               
 •	Progress Tracking: Develop a user profile system for tracking changes in color vision over time, aiding individuals in monitoring their condition and providing valuable information for healthcare professionals.
 
 •	Accessibility Enhancements: Ensure the application is accessible to individuals with disabilities, with a focus on compatibility with screen readers. This will enhance the inclusivity of the app for a broader user base.
